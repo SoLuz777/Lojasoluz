@@ -107,7 +107,7 @@ const CTA: React.FC = () => {
                     <span>Restam apenas <b>23 unidades</b> em estoque!</span>
                   </p>
                 </div>
-                <a href="https://checkout.soluzloja.com/r/2450o21l868SYYN9" className="w-full py-6 px-8 bg-accent-600 hover:bg-accent-700 text-white rounded-2xl font-bold text-xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-3 mb-6">
+                <a href="https://checkout.soluzloja.com/r/89aYM6Nr2of1hTg80W5" className="w-full py-6 px-8 bg-accent-600 hover:bg-accent-700 text-white rounded-2xl font-bold text-xl shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-3 mb-6">
                   <ShoppingCart className="w-7 h-7" />
                   <span>Quero Garantir a Minha Agora!</span>
                 </a>
